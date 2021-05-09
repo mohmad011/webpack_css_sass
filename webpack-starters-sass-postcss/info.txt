@@ -1,0 +1,5 @@
+1- install ==> sudo npm i -D webpack webpack-cli
+2- make webpack.config.js
+3- install ==> sudo npm i -D css-loader style-loader
+4- if you want remove postcss use that => sudo npm uninstall -D postcss postcss-loader postcss-preset-env [ Do'nt remove postcss is recomanded for support alot of browsers ]
+5- if you want remove tailwindcss use that => sudo npm uninstall -D tailwindcss [ remove it ]
